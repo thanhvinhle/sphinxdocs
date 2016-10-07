@@ -10,6 +10,7 @@ Welcome to Main Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   git
 
 
 Indices and tables
