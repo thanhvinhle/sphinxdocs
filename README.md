@@ -1,9 +1,11 @@
 Steps
 =====
 
-1. cd source
-2. vi *.rst
-3. git commit / push
-4. ./publish.sh
+1. Update source:
+	cd source
+	vi *.rst
+	git commit / push
+2. Publish:
+	./publish.sh
 
-URL: https://thanhvinhle.github.io/sphinxdocs/
+View Result Page at: https://thanhvinhle.github.io/sphinxdocs/
